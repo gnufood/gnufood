@@ -41,10 +41,9 @@ Background in building network and compliance systems from the ground up at scal
 
 [![](https://img.shields.io/badge/blog-30363d?style=flat&logo=rss)](https://blog.gtfo.dev)
 [![](https://img.shields.io/badge/gnu.foo-30363d?style=flat&logo=linux)](https://gnu.foo)
-[![](https://img.shields.io/badge/nosy.cc-30363d?style=flat&logo=apachecassandra)](https://nosy.cc)  
+[![](https://img.shields.io/badge/nosy.cc-30363d?style=flat&logo=apachecassandra)](https://nosy.cc)
 [![](https://img.shields.io/badge/git%40gnu.foo-30363d?style=flat&logo=minutemailer)](mailto:git@gnu.foo)
-[![](https://img.shields.io/badge/artifacts-30363d?style=flat&logo=gnubash)](https://releases.gnu.foo) 
-
-
+[![](https://img.shields.io/badge/artifacts-30363d?style=flat&logo=gnubash)](https://releases.gnu.foo)
+[![](https://img.shields.io/badge/gpg-30363d?style=flat&logo=gnuprivacyguard)](https://keys.openpgp.org/search?q=EA92184CE5A34B0BC9EE3A918E2840A297D47681)
 
 </div>
