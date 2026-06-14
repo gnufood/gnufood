@@ -1,15 +1,8 @@
-## Active Projects
-
-| Project | Description |
-|---|---|
-| httprift | HTTP desync research platform. Compiles real web server source to WebAssembly for scoped desync testing with a differential parsing engine. |
-| [whyno](https://gnu.foo/projects/whyno) | Linux permission debugger. Traces every layer from mount options to POSIX ACLs and reports what's blocking with least-privilege fix recommendations. |
-| [canaad](https://gnu.foo/projects/canaad) | Reference implementation of my AAD canonicalization spec. Ships as a core library, binary, and browser-ready WebAssembly package. |
-| [parlov](https://nosy.cc) | HTTP oracle detection tool. Finds information leakage through server behavior that is entirely correct — not broken, just honest enough to reveal what it shouldn't. |
-
----
-
 <div align="center">
+
+*"Knowledge is of no value unless you put it into practice."*
+
+**— Anton Chekhov**
 
 <td valign="top">
   <a href="https://github.com/gnufood">
